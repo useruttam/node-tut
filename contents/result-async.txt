@@ -1,0 +1,2 @@
+Here is the result : hey there this is the first text file
+ , hey there this is the second text file
